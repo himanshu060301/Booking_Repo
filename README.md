@@ -34,7 +34,7 @@ Before running the application, ensure that you have the following software inst
 1. Start the server:
 
    ```bash
-   npm run server
+   npm run api
    ```
 
    The server will run on http://localhost:5000.
@@ -64,7 +64,7 @@ hotel-reservation-app/
   |    |    |-- pages/
   |    |    |-- App.js
   |    |    |-- index.js
-  |-- server/
+  |-- api/
   |    |-- models/
   |    |-- routes/
   |    |-- controllers/
